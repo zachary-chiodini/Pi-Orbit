@@ -51,14 +51,15 @@
 </p>
 <hr>
 <p aling="center">
-    Using this quasi-static approach, we can break up any length of time into intervals of <i>Δt</i> and solve the much simpler static equation at each interval.
+    Using this quasi-static approach, we can break up any length of time into intervals of <i>Δt</i> 
+    and solve the much simpler static equation at each interval.
 </p>
 
 <h1>Algorithm</h1>
 <p>
     Provided <i>Δt</i> is close enough to zero and an initial value for 
     <i>x<sub>0</sub></i>, <i>y<sub>0</sub></i>, <i>ν<sub>x</sub><sub>0</sub></i> and <i>ν<sub>y</sub><sub>0</sub></i> is given,
-    the following can be calculated (4-7) at each interval <i>Δt</i> until the simulation ends.
+    the following (4-7) can be calculated at each interval <i>Δt</i> until the simulation ends.
 </p>
 
 <hr>
