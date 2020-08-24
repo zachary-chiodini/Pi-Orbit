@@ -41,9 +41,8 @@
 <hr>
 
 <p aling="center">
-    Therefore, if we choose a small enough interval of time (time step) <i>Δt</i>, 
+    Therefore, if we choose a small enough interval of time <i>Δt</i>, so that <i>Δt</i> is approximately zero, 
     we can treat all the values as approximately constant during this interval (3).
-    We can then break up any length of time into intervals of <i>Δt</i> and solve this static equation at each interval.
 </p>
 
 <hr>
@@ -51,6 +50,9 @@
     <img src="photos/form3.png">
 </p>
 <hr>
+<p aling="center">
+    Using this quasi-static apporach, we can break up any length of time into intervals of <i>Δt</i> and solve the much simpler static equation at each interval.
+</p>
 
 <h1>Algorithm</h1>
 <p>
