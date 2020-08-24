@@ -55,7 +55,7 @@
 <p>
     Provided <i>Δt</i> is close enough to zero and an initial value for 
     <i>x<sub>0</sub></i>, <i>y<sub>0</sub></i>, <i>ν<sub>x</sub><sub>0</sub></i> and <i>ν<sub>y</sub><sub>0</sub></i> is given,
-    the following is calculated (4-7) at each interval <i>Δt</i> until the simulation ends.
+    the following can be calculated (4-7) at each interval <i>Δt</i> until the simulation ends.
 </p>
 
 <hr>
