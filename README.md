@@ -7,9 +7,8 @@
     The location of the particle is denoted by <i>P(x, y)</i>, with position vector <b><i>r</b>(t)</i>.
 </p>
 <p align="justify">
-    Fixed at <i>P<sub>n</sub>(x<sub>n</sub>, y<sub>n</sub>)</i> is a source of a force field that accelerates the particle proportional
-    to the inverse square of its distance from the source and directed toward the source, 
-    where the distance and direction is given by <b><i>r</b><sub>n</sub></i> - <b><i>r</b>(t)</i>.
+    Fixed at <i>P<sub>n</sub>(x<sub>n</sub>, y<sub>n</sub>)</i> is the source of a force field that accelerates the particle toward the source proportional
+    to the inverse square of its distance from the source, where the distance and direction is given by <b><i>r</b><sub>n</sub></i> - <b><i>r</b>(t)</i>.
     Additionally, a linear resistive force acts on the particle.
 </p>
 
