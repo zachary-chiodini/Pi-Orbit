@@ -42,7 +42,8 @@
 
 <p aling="center">
     Therefore, if we choose a small enough interval of time <i>Δt</i>, so that <i>Δt</i> is approximately zero, 
-    we can treat all the values as approximately constant during this interval (3).
+    we can treat all the values as approximately constant during this interval (3). 
+    This is now a second-order linear ordinary differential equation.
 </p>
 
 <hr>
