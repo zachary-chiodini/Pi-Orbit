@@ -30,7 +30,7 @@
 <hr>
 
 <p aling="center">
-    If we evaluate the equation at <i>t = 0</i>, there is no longer any time dependence (2). 
+    If we evaluate the equation at <i>t = 0</i>, there is no longer any time dependency (2). 
     All values are constant at this instance. The nought subscript denotes a constant value.
 </p>
 
