@@ -9,6 +9,10 @@ Visualizing N Digits of Pi as Orbital Motion with Linear Resistance
     <img src="photos/form1.png">
 </p>
 
+<p>
+    Zero subscript denotes a constant value.
+</p>
+
 <p align="center">
     <img src="photos/form2.png">
 </p>
