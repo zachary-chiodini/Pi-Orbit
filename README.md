@@ -16,7 +16,7 @@ Visualizing N Digits of Pi as Orbital Motion with Linear Resistance
 <p align="center">
     <img src="photos/form3.png">
 </p>
-
+<h1>Algorithm</h1>
 <p align="center">
     <img src="photos/form4.png">
 </p>
