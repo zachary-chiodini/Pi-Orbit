@@ -18,27 +18,36 @@
 
 <p aling="center">
     The equation of emotion is below (1), where <i>k</i> is the force constant and <i>c</i> is the coefficient of friction.
-    This is a second-order nonlinear ordinary differential equation. An approximate numerical solution can be easily found.
+    This is a second-order nonlinear ordinary differential equation. An approximate numerical solution is easily found.
 </p>
 
 <p align="center">
     <img src="photos/form1.png">
 </p>
 
-<p>
-    Zero subscript denotes a constant value.
+<p aling="center">
+    If we evaluate the equation at <i>t = 0</i>, there is no longer any time dependence (2). 
+    All values are constant at this instance. The nought subscript denotes a constant value.
 </p>
 
 <p align="center">
     <img src="photos/form2.png">
 </p>
 
+<p aling="center">
+    Therefore, if we choose a small enough interval of time (time step) <i>Δt</t>, 
+    we can treat all the values as approximately constant during this interval (3).
+</p>
+
 <p align="center">
     <img src="photos/form3.png">
 </p>
+
 <h1>Algorithm</h1>
 <p>
-    Provided <i>Δt</i> is close enough to zero
+    Provided <i>Δt</i> is close enough to zero and an initial value for 
+    <i>x<sub>0</sub></i>, <i>y<sub>0</sub></i>, <i>ν<sub>x</sub><sub>0</sub></i> and <i>ν<sub>y</sub><sub>0</sub></i> is given,
+    the following is calculated (4-7) at each interval <i>Δt</i> until the simulation ends.
 </p>
 <p align="center">
     <img src="photos/form4.png">
