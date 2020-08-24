@@ -1,5 +1,6 @@
 # pi-orbit
-Visualizing N Digits of Pi as Motion in an Inverse Square Force Field with Linear Resistance
+<i>Visualizing N Digits of Pi as Motion in an Inverse Square Force Field with Linear Resistance</i>
+<hr>
 
 <p align="justify">
     The location of the Nth digit of Pi is denoted by <i>P<sub>n</sub>(x<sub>n</sub>, y<sub>n</sub>)</i>, with position vector <b><i>r</b><sub>n</sub></i>. 
