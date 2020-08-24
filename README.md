@@ -35,3 +35,15 @@ Visualizing N Digits of Pi as Orbital Motion with Linear Resistance
 <p align="center">
     <img src="photos/form7.png">
 </p>
+
+<h1>Try It</h1>
+
+```python
+from piorbit import PiOrbit
+```
+
+
+```python
+orbit = PiOrbit( n = 10, k = 10, c = 20, h = 0.01, lim = 0.1 )
+orbit.start()
+```
