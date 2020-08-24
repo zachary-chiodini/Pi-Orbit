@@ -51,7 +51,7 @@
 </p>
 <hr>
 <p aling="center">
-    Using this quasi-static apporach, we can break up any length of time into intervals of <i>Δt</i> and solve the much simpler static equation at each interval.
+    Using this quasi-static approach, we can break up any length of time into intervals of <i>Δt</i> and solve the much simpler static equation at each interval.
 </p>
 
 <h1>Algorithm</h1>
