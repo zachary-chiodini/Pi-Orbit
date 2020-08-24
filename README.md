@@ -41,7 +41,7 @@
 <hr>
 
 <p aling="center">
-    Therefore, if we choose a small enough interval of time (time step) <i>Δt</t>, 
+    Therefore, if we choose a small enough interval of time (time step) <i>Δt</i>, 
     we can treat all the values as approximately constant during this interval (3).
 </p>
 
