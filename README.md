@@ -2,10 +2,10 @@
 Visualizing N Digits of Pi as Motion in an Inverse Square Force Field with Linear Resistance
 
 <p align="justify">
-    The location of the Nth digit of Pi is denoted by <i>P<sub>n</sub>(x<sub>n</sub>, y<sub>n</sub>)</i>, with position vector <b><i>r<sub>n</sub></i></b>. 
+    The location of the Nth digit of Pi is denoted by <i>P<sub>n</sub>(x<sub>n</sub>, y<sub>n</sub>)</i>, with position vector <b><i>r</b><sub>n</sub></i>. 
     The location of the particle is denoted by <i>P(x, y)</i>, with position vector <b><i>r</b>(t)</i>.
     Fixed at <i>P<sub>n</sub>(x<sub>n</sub>, y<sub>n</sub>)</i> is a source of a force field that pulls the particle toward it with acceleration inversely proportional
-    to the particles distance from the source and directed toward the source, <b><i>r<sub>n</sub></i></b> - <b><i>r</b>(t)</i>.
+    to the particles distance from the source and directed toward the source, <b><i>r</b><sub>n</sub></i> - <b><i>r</b>(t)</i>.
 </p>
 <p align="center">
     <img src="photos/graph.png">
