@@ -43,6 +43,7 @@
 <p aling="center">
     Therefore, if we choose a small enough interval of time (time step) <i>Δt</i>, 
     we can treat all the values as approximately constant during this interval (3).
+    We can then break up any length of time into intervals of <i>Δt</i> and solve this static equation at each interval.
 </p>
 
 <hr>
