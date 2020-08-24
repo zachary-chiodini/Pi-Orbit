@@ -53,7 +53,8 @@
 <hr>
 <p aling="center">
     Using this quasi-static approach, we can break up any length of time into intervals of <i>Δt</i> 
-    and solve the much simpler static equation at each interval.
+    and solve the much simpler static equation at each interval, using values for 
+    <i><b>r</b><sub>0</sub></i> and <i><b>ν</b><sub>0</sub></i> from the previous interval.
 </p>
 
 <h1>Algorithm</h1>
