@@ -3,6 +3,9 @@
 [![Pi Orbit](photos/video.PNG)](https://www.youtube.com/watch?v=MT02Ate9sIw)
 
 <i>Visualizing N Digits of Pi as Motion in an Inverse Square Force Field with Linear Resistance</i>
+<p align="left">
+    <img width="244px" src="photos/dependencies.png">
+</p>
 <hr>
 <h1>Mechanics</h1>
 <p align="justify">
